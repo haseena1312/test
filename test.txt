@@ -1,5 +1,2 @@
 alpha
 beta 
-gamma
-hello
-hi
